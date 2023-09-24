@@ -1,0 +1,11 @@
+command to run ts file 
+  ==>  ts-node <file name>
+
+command to run javascript file 
+  ==> node <file name>
+
+ 
+
+ Use the TypeScript compiler (tsc)
+  to compile your TypeScript file into JavaScript. 
+ ==> tsc <filenmae.ts>
