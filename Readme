@@ -9,3 +9,8 @@ command to run javascript file
  Use the TypeScript compiler (tsc)
   to compile your TypeScript file into JavaScript. 
  ==> tsc <filenmae.ts>
+
+ commnd to run the java file
+     *first compile the file using
+     ==> javac <file name> class file will be created
+     ==> java <file name > to run the code

@@ -34,5 +34,5 @@ const searchElement = (arr: number[], target: number): number | boolean => {
   return false; // Return false when the target is not found
 };
 
-const answer:number = searchElement(num, target);
+const answer: number = searchElement(num, target);
 console.log(answer);
